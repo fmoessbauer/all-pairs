@@ -18,7 +18,7 @@ await_confirm() {
 mkdir -p $BUILD_DIR
 rm -Rf $BUILD_DIR/*
 (cd $BUILD_DIR && \
-    cmake -DCMAKE_BUILD_TYPE=release \
+    cmake3 -DCMAKE_BUILD_TYPE=release \
           \
            ../ && \
     await_confirm && \
