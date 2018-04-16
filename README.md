@@ -32,5 +32,4 @@ Run on 20 haswell nodes of [SuperMUC](https://www.lrz.de/services/compute/superm
 ### HLRS Hazel Hen HPC system
 Run on 5 nodes of [Hazel Hen](https://www.hlrs.de/de/systems/cray-xc40-hazel-hen/) using cray MPI. The schedule is disadvantageous because the nodes are split over two groups of the dragonfly interconnect.
 
-![hazelhen 5 nodes]
-(https://gist.githubusercontent.com/fmoessbauer/051bc8340e0d6c05432394b95f521bc2/raw/414acc1f12c0acf7551224230f5746a65d7f4f46/hazelhen_5_nodes_RMA_GET_web.png)
+![hazelhen 5 nodes](https://gist.githubusercontent.com/fmoessbauer/051bc8340e0d6c05432394b95f521bc2/raw/414acc1f12c0acf7551224230f5746a65d7f4f46/hazelhen_5_nodes_RMA_GET_web.png)
